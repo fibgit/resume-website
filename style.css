@@ -124,10 +124,29 @@ html{
     font-family: "Caveat",cursive;
     font-size: 3rem;
     font-weight: bold;
+    margin-left: 1.2rem;
+}
+.about{
+    width:30rem;
+    font-family: "Caveat",cursive;
+    font-size:2.5rem;
+    line-height: 1;
+    color:a9abae ;
+    margin-bottom: 5rem;
+}
+
+.social-media{
+    margin-bottom: 5rem;
+}
+
+.social-media i{
+    font-size:2.5rem ;
+    color: #fff;
+    margin-right: 2rem;
 }
 
 .logo{
-    position: absolute;
+    position: static;
     left:5rem;
     font-size: 3rem;
 }
@@ -137,6 +156,8 @@ html{
     font-size: 5rem;
     font-family: "Caveat",cursive;
     font-weight: bold;
+ 
+   
 }
 
 .logo span:nth-child(2){
@@ -144,6 +165,8 @@ html{
     font-size: 5rem;
     font-family: "Caveat",cursive;
     font-weight: bold;
+
+    
     
 }
 
